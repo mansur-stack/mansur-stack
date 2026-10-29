@@ -49,16 +49,16 @@ I build practical digital products, responsive interfaces, and AI-inspired solut
 
 > Projects are evolving. Browse the repositories for their current implementation and status.
 
+
 ## `> github_stats --live`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mansur-stack&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00E5FF&icon_color=AF70FF&text_color=DDE6F0" alt="GitHub statistics" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansur-stack&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00E5FF&text_color=DDE6F0" alt="Most used repository languages" height="160" />
+<img src="https://github-stats-extended.vercel.app/api?username=mansur-stack&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00E5FF&icon_color=AF70FF&text_color=DDE6F0" alt="GitHub statistics" height="160" />
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mansur-stack&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00E5FF&text_color=DDE6F0" alt="Most used repository languages" height="160" />
 
 </div>
-
-<sub>Statistics are provided by a third-party service and may not load at all times. Language metrics reflect repository code, not a proficiency ranking.</sub>
 
 ## `> connect --with-me`
 
